@@ -1,5 +1,5 @@
 # Class 6 Hungry Wolves Homework Repo
-This will be our repo for to upload our code with proof to be checked
+This will be our repo to upload our code with proof to be checked
 Group Members
 - Alexander Shaw
 - Brian Peña
